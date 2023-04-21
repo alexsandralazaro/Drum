@@ -6,10 +6,9 @@
 
 [![GitHub](https://img.shields.io/github/license/alexsandralazaro/drum)](https://github.com/alexsandralazaro/Drum/blob/main/licence)
 
-https://alexsandralazaro.github.io/drum
+https://alexsandralazaro.github.io/Drum
 
 Nesse projeto foram aplicados alguns conceitos avançados de Javascript e Document Object Model (DOM), que faz parte do curso The Complete 2023 Web Development Bootcamp. 
-
 
 # Tecnologias Utilizadas
 
